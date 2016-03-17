@@ -1,0 +1,14 @@
+#include <time.h>
+#include <stdio.h>
+#include <string.h>
+
+//This is a program designed to apologize for stupidity
+void main(){
+  string feelings;
+
+  //Prompt the user for their feelings
+  printf("Are you feeling sorry?: ");
+  scanf("%s", &feelings);
+  
+  
+}
